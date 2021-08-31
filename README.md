@@ -4,6 +4,8 @@
 https://virtual-cards-json-backend.herokuapp.com
 this is from where the app is recieving all its data.
 
+# react application hosted at https://virtual-cards-heroku.herokuapp.com
+
 
 ### `npm start` to run the react app
 
