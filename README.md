@@ -11,3 +11,4 @@ this is from where the app is recieving all its data.
 
 * Everything asked in the requirements has been accomplished except adding filters.
 * few validations remain
+* application is not responsive
