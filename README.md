@@ -1,3 +1,10 @@
+# `npm install` to install all necessary node packages
+
+# have hosted backend as a json-server using heroku at
+https://virtual-cards-json-backend.herokuapp.com
+this is from where the app is recieving all its data.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
